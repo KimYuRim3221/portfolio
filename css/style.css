@@ -1083,7 +1083,7 @@ fieldset {
 
 @media (max-width: 500px) {
     h1 {
-	    padding-top: 130px;
+	    padding-top: 75px;
         font-family: 'DM Serif Display', serif;
         font-size: 50px;
         line-height: 50px;
