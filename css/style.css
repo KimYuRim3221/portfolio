@@ -447,10 +447,7 @@ overflow: hidden;
 #web_bg_wrap{
     background: #F9FBFF url(../img/web_bg.svg) no-repeat center 100px;
 }
-#web_bg2_wrap{
-    background: #e4f0fe84 url(../img/twinkle_bg.svg) no-repeat 40% 75%;
-    margin-bottom: 0;
-}
+
 /* -- */
 #about {
     padding: 100px 0;
@@ -530,8 +527,9 @@ overflow: hidden;
 
 #experience {
     padding: 100px 0 40px;
-    /* background: #e4f0fe84; */
+    background: #e4f0fe84 url(../img/twinkle_bg2.svg) no-repeat center top;
 }
+
 
 .experience-row {
     padding: 20px 0;
@@ -654,8 +652,9 @@ overflow: hidden;
 }
 /* skill section
 ==================================================*/
+
 #skills{
-	/* background: #e4f0fe84; */
+    background: #e4f0fe84 url(../img/twinkle_bg2.svg) no-repeat -250px 50px;
 	padding:50px;
 }
 .skill-box {
@@ -731,9 +730,10 @@ overflow: hidden;
 /* projects section
 ==================================================*/
 
-/* 작업위해 임시배경색넣음 */
-#projects {
-    /* background: #e4f0fe84; */
+ #projects {
+    background: #e4f0fe84 url(../img/twinkle_bg1.svg) no-repeat center top;
+    margin-bottom: 0
+    ;
 }
 
 .Tium{
