@@ -94,6 +94,7 @@ body {
     font-family: 'Noto Sans', sans-serif;
     font-size: 14px;
     line-height: 24px;
+	background-color: #F9FBFF;
 }
 
 .size-50 {
@@ -932,7 +933,7 @@ overflow: hidden;
 ==================================================*/
 
 #contact {
-    padding: 30px 0;
+    padding: 20px 0;
     background-color: #F9FBFF;
 }
 #contact p{
