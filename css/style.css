@@ -58,11 +58,15 @@ font-family: 'Open Sans', sans-serif;
 /* typography
 ==================================================*/
 
-h1, h2 {
+h1 {
     font-family: 'DM Serif Display', serif;
     font-size: 80px;
     line-height: 70px;
 	color: #000000;
+}
+
+h2{
+	font-family: 'DM Serif Display', serif;
 }
 
 h4 {
