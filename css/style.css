@@ -538,7 +538,7 @@ overflow: hidden;
 }
 
 .experience-row h3 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     text-transform: capitalize;
     letter-spacing: 2px;
     color: #425BB5;
@@ -1079,7 +1079,7 @@ fieldset {
 
 @media (max-width: 500px) {
     h1 {
-        font-family: 'Playfair Display', serif;
+        font-family: 'DM Serif Display', serif;
         font-size: 50px;
         line-height: 50px;
     }
@@ -1102,7 +1102,7 @@ fieldset {
 		text-align:right;
 		font-size:60px;
 		color:#425BB5;
-		font-family: 'Lato', sans-serif;
+		font-family: 'DM Serif Display', serif;
 	}
 	.dia{
 		width:200px;
