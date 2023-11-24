@@ -65,8 +65,8 @@ h1 {
 	color: #000000;
 }
 
-h2{
-	font-family: 'DM Serif Display', serif;
+.font_DM{
+    font-family: 'DM Serif Display', serif;
 }
 
 h4 {
