@@ -1103,6 +1103,21 @@ fieldset {
 		color:#fff;
 		margin-top:100px;
 	}
+	/* 임의추가 */
+    .container h1{
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    .portfolio-inner {
+        padding-top: 15px;
+    }
+
+    #skills .h-50 {
+        height: 20px;
+    }
+    
+    /* ---- */
+	
 	.container h2{
 		text-align:right;
 		font-size:60px;
